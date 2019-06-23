@@ -17,7 +17,7 @@ app.get('',(req,res)=>{
     reqno=2;
     
 (async () => {
-    const browser = await puppeteer.launch({ headless: false, defaultViewport: null, args: ['--no-sandbox', '--disable-setuid-sandbox','--start-maximized'] });
+    const browser = await puppeteer.launch({ headless: true, defaultViewport: null, args: ['--no-sandbox', '--disable-setuid-sandbox','--start-maximized'] });
     const page = await browser.newPage();
     let element, formElement, tabs;
     await page.goto(`https://www.instagram.com/accounts/login/?source=auth_switcher`, { waitUntil: 'networkidle0' });
