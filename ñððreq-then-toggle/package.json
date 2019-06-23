@@ -1,0 +1,11 @@
+{
+  "name": "100req-then-toggle",
+  "version": "1.0.0",
+  "description": "Accepts 100 Instagram follow requests and the changes the Instagram account to public",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhur Dixit",
+  "license": "ISC"
+}

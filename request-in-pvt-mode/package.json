@@ -1,0 +1,11 @@
+{
+  "name": "request-in-pvt-mode",
+  "version": "1.0.0",
+  "description": "Accepts Instagram Follow requests in private mode",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhur Dixit",
+  "license": "ISC"
+}

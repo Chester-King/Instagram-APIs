@@ -1,0 +1,11 @@
+{
+  "name": "req-accp-toggle",
+  "version": "1.0.0",
+  "description": "Accepts Instagram follow requests and then toggles the account to Public and then again private",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madhur Dixit",
+  "license": "ISC"
+}
