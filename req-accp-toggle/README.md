@@ -1,15 +1,12 @@
 # Request Accepting In Private Mode
 
-
 ## Description:
 
-**This Api accepts a GET request with Username, Password and Number as Params and then accepts n follow requests**
+**This Api accepts a GET request with Username and Password as Params and then accepts 20 follow requests and then change the privacy of the account to Public and then again switch it back to Private**
 
-
-This API accepts three arguments
+This API accepts two arguments
 * username - Your instagram Username
 * password - Your instagram Password
-* number - The number of requests you want to accept in Private Mode
 
 ## Understanding the CodeBase
 
