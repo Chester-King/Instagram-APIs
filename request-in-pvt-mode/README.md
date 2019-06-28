@@ -55,7 +55,7 @@ console.log('Task Succesfully Completed')
 
 ### Open terminal where your script lies
 
-![Terminal](https://drive.google.com/open?id=1-8LKk3WidT7YpIZrjcHbkLO7zh3Ldk3S)
+![Terminal](https://raw.githubusercontent.com/Chester-King/Instagram-APIs/master/Readme-Images/commandprompt.PNG)
 
 Make sure you are in the directory of the script
 
