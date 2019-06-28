@@ -71,4 +71,4 @@ Then to start the server type the command `node app.js`
 You will get a Message on the termial on succesfull server Deployment
 `Server is up on port 3000`
 
-![Server Up](https://drive.google.com/open?id=19680PoGPWyVSbj0wkDv1lcpZA0iHfPKZ)
+![Server Up](https://drive.google.com/file/d/19680PoGPWyVSbj0wkDv1lcpZA0iHfPKZ/view?usp=sharing)
