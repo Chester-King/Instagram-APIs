@@ -55,13 +55,13 @@ console.log('Task Succesfully Completed')
 
 ### Open terminal where your script lies
 
-![Terminal](https://00e9e64bacd140c8c6652039dbc01490a361c08ed51f37c49e-apidata.googleusercontent.com/download/storage/v1/b/github-repo-pictures/o/commandprompt.PNG?qk=AD5uMEu8jIdBk0xhiQLpiIEYFcp8hpyUKR-n5BCqa0nl2SnbVkR5rlJBBKvToXRmFvC6LwYOnJH3tjvoBEhQ7bHL4ObjNAylHNa_5xkWczbsr4SCa4-6SCPd94AlnmMkF1tVuclPGGmWd9h_mp4c7mQh1ogxYSWxWdTX5EA_DbBHdHnQfHGtC4kamfj8MtQwx09CrL7k5qexR9dY94ag1Mv9y1AGXk6wk7t1he7aBvUemdGUCAF2IlCmyNrzpgOVzqnab1b9EGmerNdy1jpPHPV_itHHVpxzcqha7Ze3Ax08dUmxkC33XKubJNM1rGWvVY0zpYJfKD-fN3vyC1ULt55K7nEkN0jw1HhT3dNlwGd2gan1H84RmC8ObXoGR1k8L0iIq_9lZ7_OyKsoYLq_57M8cXKNtJwy77CZc2ZRhqqWCIjr8wQ1AvaVFYrDghKO7mJ_eI0pivXODMu8RROoBqTe8X0azeIbOxUDVWPJysrUr2eqnLtvYRatAK3OlX9iB_XMKConfebx57MNyPel9polsSTtkF69-MbMS7QyCOoLqRAlcdJQqMmho08xQNIGXB8zvdldD_4HS4873gm0LdIP8zaZXq57USHv_2WMfYzNFhQ3yZNp9wxd3MCS3_Xb6YDXLDG1wfGzK4R_aQkndCLiFHtMbQM-b6__Uo_0budnnzkJrge1GScKENQrb8Ej-f6hXr-b6YWq3YueOO-YALjZM4vorwCc3Br71K0kZwBYfOQkAdRJ7UK8NGcrg_pwrLet9yKVEIenmhORBE3zG9BR0upPDI5V4Q)
+![Terminal](https://storage.googleapis.com/github-repo-pictures/commandprompt.PNG)
 
 Make sure you are in the directory of the script
 
 To make sure of this try the `DIR` or `ls` command
 
-![Directories](https://storage.cloud.google.com/github-repo-pictures/Directories.PNG)
+![Directories](https://storage.googleapis.com/github-repo-pictures/Directories.PNG)
 
 ### Installing Dependencies and Starting server
 
@@ -71,7 +71,7 @@ Then to start the server type the command `node app.js`
 You will get a Message on the termial on succesfull server Deployment
 `Server is up on port 3000`
 
-![Server Up](https://storage.cloud.google.com/github-repo-pictures/serverdep.PNG)
+![Server Up](https://storage.googleapis.com/github-repo-pictures/serverdep.PNG)
 
 ## Sending request to the Server
 
@@ -79,7 +79,7 @@ You will get a Message on the termial on succesfull server Deployment
 
 Open up Postman and create a get request with following configuration(Make sure the server is up and running)
 
-![Postman Entery](https://storage.cloud.google.com/github-repo-pictures/Postman%20Entery.PNG)
+![Postman Entery](https://storage.googleapis.com/github-repo-pictures/Postman%20Entery.PNG)
 
 After The entry hit Send
 
