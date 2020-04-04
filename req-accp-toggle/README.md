@@ -82,7 +82,7 @@ You will get a Message on the termial on succesfull server Deployment
 
 Open up Postman and create a get request with following configuration(Make sure the server is up and running)
 
-![Postman Entery](https://storage.googleapis.com/github-repo-pictures/Postman%20Entery.PNG)
+![Postman Entery](https://storage.googleapis.com/github-repo-pictures/postmanEntery2.PNG)
 
 After The entry hit Send
 

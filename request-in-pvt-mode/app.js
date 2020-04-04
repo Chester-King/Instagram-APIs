@@ -33,6 +33,8 @@ app.get('',(req,res)=>{
         Object.defineProperty(navigator, 'webdriver', {
           get: () => false,
         });
+
+
       });
     await page.setUserAgent(userAgent);
     let element, formElement, tabs;

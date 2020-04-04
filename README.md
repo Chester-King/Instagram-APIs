@@ -1,9 +1,8 @@
-# Instageam APIs
+# Instagram APIs
 
 These are three Instagram APIs which will help you to in accessing Instagram and perform Automated tasks without human Intervention
 
 ## Installations
-
 
 ### Node
 
@@ -16,6 +15,5 @@ you can go to their Downloads page by clicking [here](https://nodejs.org/en/down
 
 Install [Postman](https://www.getpostman.com/downloads/)
 After you are at their downloads page you can download the product required depending on your system specification
- 
-![Postman Frontpage](https://developer.foursquare.com/docs/images/postman-configure-1.png)
 
+![Postman Frontpage](https://developer.foursquare.com/docs/images/postman-configure-1.png)
